@@ -14,35 +14,21 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 ### [Les pirates](https://github.com/OlivierCrt/les_pirates)
 - **Description**: Object-oriented programming. Video game inspired by the french "Jeu de l'oie".
   
-
-
-
 ---
 
-##  Practical Works
+##  Works
 
-### Python
-- #### [Optimization](https://github.com/OlivierCrt/Optimisation_M1)
-- #### [CV](https://github.com/OlivierCrt/Image_processing)
-- #### [Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)
-- #### [NLP-Classification 1](https://github.com/OlivierCrt/PW_speech_processing)
-- #### [NLP-Classification 2](https://github.com/OlivierCrt/PW_Machine-Learning)
-- #### [OOP-Classification](https://github.com/OlivierCrt/PW-python-M1)
-- #### [States-based algorthms](https://github.com/OlivierCrt/PW_IA_M1)
 
-### [Repository 2](https://github.com/your-username/repo2)
-- **Description**: A brief description of the repository.
-- **Purpose**: Practical work for [course/subject].
-- **Technologies**: Python, Pandas, Matplotlib
-
----
-
-##  Other Repositories
-
-- [Repo 3](https://github.com/your-username/repo3): A brief description.
-- [Repo 4](https://github.com/your-username/repo4): A brief description.
-- [Repo 5](https://github.com/your-username/repo5): A brief description.
-
+- ### [Optimization](https://github.com/OlivierCrt/Optimisation_M1)
+- ### [CV](https://github.com/OlivierCrt/Image_processing) - In progress
+- ### [Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)
+- ### [NLP-Classification 1](https://github.com/OlivierCrt/PW_speech_processing) - In progress
+- ### [NLP-Classification 2](https://github.com/OlivierCrt/PW_Machine-Learning)
+- ### [Flower-Classification](https://github.com/OlivierCrt/PW-python-M1)
+- ### [States-based algorthms](https://github.com/OlivierCrt/PW_IA_M1)
+- ### [Robot control](https://github.com/OlivierCrt/PW_Robot_Control)
+- ### [OOP C++ Master the basics](https://github.com/OlivierCrt/PW_Cpp)
+- ### [OOP Java Master the basics](https://github.com/OlivierCrt/PW-java-BS3)
 ---
 
 
