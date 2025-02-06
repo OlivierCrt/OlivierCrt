@@ -6,13 +6,13 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 ### [Trajectory generation on robot manipulator RX160](https://github.com/OlivierCrt/Trajectory_Generation_Robot_Manipulator_RX160)
 -  RRR robot model, including modeling parameters, simulations, and associated tests. It enables geometric and kinematic modeling calculations, as well as trajectory simulations.
 ### [MoBotSim - Mobile Robot Simulation](https://github.com/OlivierCrt/MobotSim)
-- **Description**: Simulation of a mobile robot, providing functionalities for image analysis, text command processing, and robot movement simulation in a virtual environment.
+-  Simulation of a mobile robot, providing functionalities for image analysis, text command processing, and robot movement simulation in a virtual environment.
 ### [MoBot](https://github.com/OlivierCrt/Mobot)
-- **Description**: Mobile robot software,that aims to analyse a space and track objects using speech recognition.
+-  Mobile robot software,that aims to analyse a space and track objects using speech recognition.
 ### [Reinforcement Learning](https://github.com/OlivierCrt/Reinforcement_Learning)
-- **Description**: Implementation of Policy Iteration, Value Iteration, and Epsilon-Greedy algorithms.
+-  Implementation of Policy Iteration, Value Iteration, and Epsilon-Greedy algorithms.
 ### [Les pirates](https://github.com/OlivierCrt/les_pirates)
-- **Description**: Object-oriented programming. Video game inspired by the french "Jeu de l'oie".
+-  Object-oriented programming. Video game inspired by the french "Jeu de l'oie".
   
 ---
 
