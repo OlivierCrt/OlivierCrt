@@ -11,7 +11,7 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 - **Description**: Mobile robot softwrae,that aims to analyse a space and track objects using speech recognition.
 ### [Reinforcement Learning](https://github.com/OlivierCrt/Reinforcement_Learning)
 - **Description**: Implementation of Policy Iteration, Value Iteration, and Epsilon-Greedy algorithms.
-### [Les pirates]([https://github.com/your-username/project2](https://github.com/OlivierCrt/les_pirates))
+### [Les pirates](https://github.com/OlivierCrt/les_pirates)
 - **Description**: Object-oriented programming. Video game inspired by the french "Jeu de l'oie".
   
 
@@ -21,10 +21,13 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 
 ##  Practical Works
 
-### [Repository 1](https://github.com/OlivierCrt/MobotSim)
-- 
-- **Purpose**: Practical work for [course/subject].
-- **Technologies**: HTML, CSS, JavaScript
+### Python
+####[Optimization](https://github.com/OlivierCrt/Optimisation_M1)
+####[CV](https://github.com/OlivierCrt/Image_processing)
+####[Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)
+####[NLP](https://github.com/OlivierCrt/PW_speech_processing)
+####[NLP-Classification](https://github.com/OlivierCrt/PW_Machine-Learning)
+####[OOP-Classification](https://github.com/OlivierCrt/PW-python-M1)
 
 ### [Repository 2](https://github.com/your-username/repo2)
 - **Description**: A brief description of the repository.
@@ -41,11 +44,6 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlivierCrt&show_icons=true&theme=dark)
-
----
 
 ## 📫 How to Reach Me
 If you have any questions or want to collaborate, feel free to contact me:
