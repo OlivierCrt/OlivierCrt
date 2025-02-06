@@ -22,12 +22,12 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 ##  Practical Works
 
 ### Python
-####[Optimization](https://github.com/OlivierCrt/Optimisation_M1)
-####[CV](https://github.com/OlivierCrt/Image_processing)
-####[Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)
-####[NLP](https://github.com/OlivierCrt/PW_speech_processing)
-####[NLP-Classification](https://github.com/OlivierCrt/PW_Machine-Learning)
-####[OOP-Classification](https://github.com/OlivierCrt/PW-python-M1)
+#### [Optimization](https://github.com/OlivierCrt/Optimisation_M1)
+#### [CV](https://github.com/OlivierCrt/Image_processing)
+#### [Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)
+#### [NLP](https://github.com/OlivierCrt/PW_speech_processing)
+#### [NLP-Classification](https://github.com/OlivierCrt/PW_Machine-Learning)
+#### [OOP-Classification](https://github.com/OlivierCrt/PW-python-M1)
 
 ### [Repository 2](https://github.com/your-username/repo2)
 - **Description**: A brief description of the repository.
