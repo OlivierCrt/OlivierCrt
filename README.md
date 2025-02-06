@@ -8,7 +8,7 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 ### [MoBotSim - Mobile Robot Simulation](https://github.com/your-username/project2)
 - **Description**: Simulation of a mobile robot, providing functionalities for image analysis, text command processing, and robot movement simulation in a virtual environment.
 ### [MoBot](https://github.com/OlivierCrt/Mobot)
-- **Description**: Mobile robot softwrae,that aims to analyse a space and track objects using speech recognition.
+- **Description**: Mobile robot software,that aims to analyse a space and track objects using speech recognition.
 ### [Reinforcement Learning](https://github.com/OlivierCrt/Reinforcement_Learning)
 - **Description**: Implementation of Policy Iteration, Value Iteration, and Epsilon-Greedy algorithms.
 ### [Les pirates](https://github.com/OlivierCrt/les_pirates)
