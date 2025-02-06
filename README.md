@@ -1,5 +1,5 @@
 # Embedded Systems Engineering Student
-I am an embedded systems engineering student at UPSSITECH, currently working on the [TLSE-Racing](https://tlseracing.fr/about/) international autonomous Formula 1 project in collaboration with ISAE-SUPAERO.
+I am a student at [UPSSITECH](https://www.upssitech.eu/), currently working on the [TLSE-Racing](https://tlseracing.fr/about/) international autonomous Formula 1 project in collaboration with ISAE-SUPAERO.
 
 ##  Projects
 
