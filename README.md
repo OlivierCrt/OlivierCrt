@@ -28,6 +28,7 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 #### [NLP](https://github.com/OlivierCrt/PW_speech_processing)
 #### [NLP-Classification](https://github.com/OlivierCrt/PW_Machine-Learning)
 #### [OOP-Classification](https://github.com/OlivierCrt/PW-python-M1)
+#### [States-based algorthms](https://github.com/OlivierCrt/PW_IA_M1)
 
 ### [Repository 2](https://github.com/your-username/repo2)
 - **Description**: A brief description of the repository.
