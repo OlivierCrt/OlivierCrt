@@ -5,7 +5,7 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 
 ### [Trajectory generation on robot manipulator RX160](https://github.com/OlivierCrt/Trajectory_Generation_Robot_Manipulator_RX160)
 - **Description**: RRR robot model, including modeling parameters, simulations, and associated tests. It enables geometric and kinematic modeling calculations, as well as trajectory simulations.
-### [MoBotSim - Mobile Robot Simulation](https://github.com/your-username/project2)
+### [MoBotSim - Mobile Robot Simulation](https://github.com/OlivierCrt/MobotSim)
 - **Description**: Simulation of a mobile robot, providing functionalities for image analysis, text command processing, and robot movement simulation in a virtual environment.
 ### [MoBot](https://github.com/OlivierCrt/Mobot)
 - **Description**: Mobile robot software,that aims to analyse a space and track objects using speech recognition.
