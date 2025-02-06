@@ -1,7 +1,7 @@
 # Embedded Systems Engineering Student
 I am an embedded systems engineering student at UPSSITECH, currently working on the [TLSE-Racing](https://tlseracing.fr/) international autonomous Formula 1 project in collaboration with ISAE-SUPAERO.
 
-##  Featured Projects
+##  Projects
 
 ### [Trajectory generation on robot manipulator RX160](https://github.com/OlivierCrt/Trajectory_Generation_Robot_Manipulator_RX160)
 - **Description**: RR robot model, including modeling parameters, simulations, and associated tests. It enables geometric and kinematic modeling calculations, as well as trajectory simulations.
