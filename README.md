@@ -1,29 +1,28 @@
 # Embedded Systems Engineering Student
 I am an embedded systems engineering student at UPSSITECH, currently working on the [TLSE-Racing](https://tlseracing.fr/) international autonomous Formula 1 project in collaboration with ISAE-SUPAERO.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### [Project 1](https://github.com/your-username/project1)
-- **Description**: A brief description of the project.
-- **Technologies**: JavaScript, React, Node.js
-- **Key Features**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+### [Trajectory generation on robot manipulator RX160](https://github.com/OlivierCrt/Trajectory_Generation_Robot_Manipulator_RX160)
+- **Description**: RR robot model, including modeling parameters, simulations, and associated tests. It enables geometric and kinematic modeling calculations, as well as trajectory simulations.
+### [MoBotSim - Mobile Robot Simulation](https://github.com/your-username/project2)
+- **Description**: Simulation of a mobile robot, providing functionalities for image analysis, text command processing, and robot movement simulation in a virtual environment.
+### [MoBot]([https://github.com/your-username/project2](https://github.com/OlivierCrt/Mobot))
+- **Description**: Mobile robot softwrae,that aims to analyse a space and track objects using speech recognition.
+### [Reinforcement Learning](https://github.com/OlivierCrt/Reinforcement_Learning)
+- **Description**: Implementation of Policy Iteration, Value Iteration, and Epsilon-Greedy algorithms.
+### [Les pirates]([https://github.com/your-username/project2](https://github.com/OlivierCrt/les_pirates))
+- **Description**: Object-oriented programming. Video game inspired by the french "Jeu de l'oie".
+  
 
-### [Project 2](https://github.com/your-username/project2)
-- **Description**: A brief description of the project.
-- **Technologies**: Python, Flask, PostgreSQL
-- **Key Features**:
-  - Feature 1
-  - Feature 2
+
 
 ---
 
-## 🛠️ Practical Work and Repositories
+##  Practical Works
 
-### [Repository 1](https://github.com/your-username/repo1)
-- **Description**: A brief description of the repository.
+### [Repository 1](https://github.com/OlivierCrt/MobotSim)
+- 
 - **Purpose**: Practical work for [course/subject].
 - **Technologies**: HTML, CSS, JavaScript
 
@@ -34,7 +33,7 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 
 ---
 
-## 📂 Other Repositories
+##  Other Repositories
 
 - [Repo 3](https://github.com/your-username/repo3): A brief description.
 - [Repo 4](https://github.com/your-username/repo4): A brief description.
