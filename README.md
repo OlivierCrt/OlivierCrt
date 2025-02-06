@@ -25,8 +25,8 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 - #### [Optimization](https://github.com/OlivierCrt/Optimisation_M1)
 - #### [CV](https://github.com/OlivierCrt/Image_processing)
 - #### [Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)
-- #### [NLP](https://github.com/OlivierCrt/PW_speech_processing)
-- #### [NLP-Classification](https://github.com/OlivierCrt/PW_Machine-Learning)
+- #### [NLP-Classification 1](https://github.com/OlivierCrt/PW_speech_processing)
+- #### [NLP-Classification 2](https://github.com/OlivierCrt/PW_Machine-Learning)
 - #### [OOP-Classification](https://github.com/OlivierCrt/PW-python-M1)
 - #### [States-based algorthms](https://github.com/OlivierCrt/PW_IA_M1)
 
