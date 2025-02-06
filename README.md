@@ -7,7 +7,7 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 - **Description**: RR robot model, including modeling parameters, simulations, and associated tests. It enables geometric and kinematic modeling calculations, as well as trajectory simulations.
 ### [MoBotSim - Mobile Robot Simulation](https://github.com/your-username/project2)
 - **Description**: Simulation of a mobile robot, providing functionalities for image analysis, text command processing, and robot movement simulation in a virtual environment.
-### [MoBot]([https://github.com/your-username/project2](https://github.com/OlivierCrt/Mobot))
+### [MoBot](https://github.com/OlivierCrt/Mobot)
 - **Description**: Mobile robot softwrae,that aims to analyse a space and track objects using speech recognition.
 ### [Reinforcement Learning](https://github.com/OlivierCrt/Reinforcement_Learning)
 - **Description**: Implementation of Policy Iteration, Value Iteration, and Epsilon-Greedy algorithms.
