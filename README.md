@@ -48,5 +48,4 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 
 ## 📫 How to Reach Me
 If you have any questions or want to collaborate, feel free to contact me:
-- **Email**: ocrampette@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/olivier-crampette-6437062b7
