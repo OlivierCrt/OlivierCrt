@@ -44,11 +44,11 @@ I am an embedded systems engineering student at UPSSITECH, currently working on 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlivierCrt&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 How to Reach Me
 If you have any questions or want to collaborate, feel free to contact me:
 - **Email**: ocrampette@gmail.com
-- **LinkedIn**: 
+- **LinkedIn**: https://www.linkedin.com/in/olivier-crampette-6437062b7
