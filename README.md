@@ -29,7 +29,7 @@ I am a student at [UPSSITECH](https://www.upssitech.eu/), currently working on t
 - ### [Robot control](https://github.com/OlivierCrt/PW_Robot_Control) - Simulink
 - ### [OOP C++ Master the basics](https://github.com/OlivierCrt/PW_Cpp)
 - ### [OOP Java Master the basics](https://github.com/OlivierCrt/PW-java-BS3)
-- ### [Camera calibration](https://github.com/OlivierCrt/PW-java-BS3)
+- ### [Camera calibration](https://github.com/OlivierCrt/Calibration)
 ---
 
 
