@@ -21,6 +21,7 @@ I am a student at [UPSSITECH](https://www.upssitech.eu/), currently working on t
 
 - ### [Optimization](https://github.com/OlivierCrt/Optimisation_M1) - Gradient descent, Newton, Least Squares, scipy lib
 - ### [Computer vision](https://github.com/OlivierCrt/Image_processing) - In progress
+- ### [Camera calibration](https://github.com/OlivierCrt/Calibration) - In progress
 - ### [Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW) - SLAM, Estimator synthesis
 - ### [NLP-Classification 1](https://github.com/OlivierCrt/PW_Machine-Learning)
 - ### [NLP-Classification 2](https://github.com/OlivierCrt/PW_speech_processing) - In progress
@@ -29,7 +30,7 @@ I am a student at [UPSSITECH](https://www.upssitech.eu/), currently working on t
 - ### [Robot control](https://github.com/OlivierCrt/PW_Robot_Control) - Simulink
 - ### [OOP C++ Master the basics](https://github.com/OlivierCrt/PW_Cpp)
 - ### [OOP Java Master the basics](https://github.com/OlivierCrt/PW-java-BS3)
-- ### [Camera calibration](https://github.com/OlivierCrt/Calibration)
+
 ---
 
 
