@@ -28,10 +28,10 @@ I am a student at [UPSSITECH](https://www.upssitech.eu/), currently working on t
 
 - ### [Optimization](https://github.com/OlivierCrt/Optimisation_M1) - Gradient descent, Newton, Least Squares, scipy lib
 - ### [Computer vision](https://github.com/OlivierCrt/Image_processing) - In progress
-- ### [Camera calibration](https://github.com/OlivierCrt/Calibration) - In progress
+- ### [Camera calibration](https://github.com/OlivierCrt/Calibration)
 - ### [Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW) - SLAM, Estimator synthesis
 - ### [NLP-Classification 1](https://github.com/OlivierCrt/PW_Machine-Learning)
-- ### [NLP-Classification 2](https://github.com/OlivierCrt/PW_speech_processing) - In progress
+- ### [NLP-Classification 2](https://github.com/OlivierCrt/PW_speech_processing)
 - ### [Flower-Classification](https://github.com/OlivierCrt/PW-python-M1) - Data preprocessing, evaluate classifier, Regression-like
 - ### [States-based algorthms](https://github.com/OlivierCrt/PW_IA_M1) - Graph
 - ### [Robot control](https://github.com/OlivierCrt/PW_Robot_Control) - Simulink
