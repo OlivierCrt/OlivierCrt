@@ -7,12 +7,12 @@
 
 ### **[TLSE Racing](https://tlseracing.fr/about/)** - *In progress*  
 - **Autonomous driving program** for a Formula Student car. This program integrates advanced **perception, decision-making, and control algorithms**, enabling the vehicle to analyze its environment in real time, predict optimal racing lines, and adjust speed for maximum performance and safety.  
-- **RTOS on [Nvidia Jetson](https://www.siliconhighwaydirect.com/product-p/900-83668-0030-000.htm)**.  
+  
 
-#### **Perception**  
+#### **Hardware**  
 - **Vision**: [Intel RealSense](https://www.reichelt.com/fr/fr/shop/produit/webcam_camera_de_profondeur_intel_realsense_d435i-275192?PROVID=2842&utm_medium=idealo.fr&utm_source=psuma).  
 - **3D Scanning**: [Velodyne VLP-16](https://www.mapix.com/lidar-scanner-sensors/velodyne/velodyne-vlp-32c/).  
-
+- **RTOS** on [Nvidia Jetson](https://www.siliconhighwaydirect.com/product-p/900-83668-0030-000.htm).
 #### **Join our sponsors**: [TLSE Racing Sponsors](https://tlseracing.fr/sponsors/).  
 
 ---
