@@ -65,4 +65,4 @@
 
 ## 📫 How to Reach Me  
 If you have any questions or want to collaborate, feel free to contact me:  
-- **LinkedIn**: [Olivier Crampette](https://www.linkedin.com/in/olivier-crampette-6437062b7).  
+- **LinkedIn**: [(https://www.linkedin.com/in/olivier-crampette-6437062b7](https://www.linkedin.com/in/olivier-crampette-6437062b7).  
