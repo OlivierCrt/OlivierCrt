@@ -13,7 +13,7 @@
 - **Vision**: [Intel RealSense](https://www.reichelt.com/fr/fr/shop/produit/webcam_camera_de_profondeur_intel_realsense_d435i-275192?PROVID=2842&utm_medium=idealo.fr&utm_source=psuma).  
 - **3D Scanning**: [Velodyne VLP-16](https://www.mapix.com/lidar-scanner-sensors/velodyne/velodyne-vlp-32c/).  
 - **RTOS** on [Nvidia Jetson](https://www.siliconhighwaydirect.com/product-p/900-83668-0030-000.htm).
-#### **Join our sponsors**: [Sponsors](https://tlseracing.fr/sponsors/).  
+#### **Join our sponsors**: [Here](https://tlseracing.fr/sponsors/).  
 
 ---
 
