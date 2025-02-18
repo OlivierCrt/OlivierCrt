@@ -59,7 +59,7 @@
 - ### **[States-based Algorithms](https://github.com/OlivierCrt/PW_IA_M1)** - Graphs.  
 - ### **[Robot Control](https://github.com/OlivierCrt/PW_Robot_Control)** - Matlab Simulink.  
 - ### **[OOP C++ Master the Basics](https://github.com/OlivierCrt/PW_Cpp)**  
-- ### **[OOP Java Master the Basics](https://github.com/OlivierCrt/PW-java-BS3)**.  
+- ### **[OOP Java Master the Basics](https://github.com/OlivierCrt/PW-java-BS3)**  
 
 ---
 
