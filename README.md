@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 Projects  
+##  Projects  
 
 ### **[TLSE Racing](https://tlseracing.fr/about/)** - *In progress*  
 - **Autonomous driving program** for a Formula Student car. This program integrates advanced **perception, decision-making, and control algorithms**, enabling the vehicle to analyze its environment in real time, predict optimal racing lines, and adjust speed for maximum performance and safety.  
@@ -47,7 +47,7 @@
 
 ---
 
-## 💼 Works  
+##  Works  
 
 - ### **[Optimization](https://github.com/OlivierCrt/Optimisation_M1)** - Gradient descent, Newton, Least Squares, scipy lib.  
 - ### **[Computer Vision](https://github.com/OlivierCrt/Image_processing)** - *In progress*.  
