@@ -38,7 +38,7 @@
 
 ---
 
-### **[Reinforcement Learning](https://github.com/OlivierCrt/Reinforcement_Learning)** - *In progress*  
+### **[Reinforcement Learning](https://github.com/OlivierCrt/Reinforcement_Learning)**  
 - Implementation of **Policy Iteration, Value Iteration, and Epsilon-Greedy algorithms**.  
 
 ---
