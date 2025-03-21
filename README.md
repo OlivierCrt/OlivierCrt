@@ -7,10 +7,11 @@
 
 ### **[TLSE Racing](https://tlseracing.fr/about/)** - *In progress*  
 - **Autonomous driving program** for a Formula Student car. This program integrates advanced **perception, decision-making, and control algorithms**, enabling the vehicle to analyze its environment in real time, predict optimal racing lines, and adjust speed for maximum performance and safety.
-#### **AI**
-- Tested algorithms : Faster R-CNN, EfficientNet,Yolo, MobileNet
+#### **Artificial  Intelligence**
+- Tested algorithms : Faster R-CNN, EfficientNet, Yolo, MobileNet
 - Cone classification exemple [Video]()
-#### **SIM**
+#### **Simulation**
+- [Link](https://fs-driverless.github.io/Formula-Student-Driverless-Simulator/v2.2.0/)
 
   
 
