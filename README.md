@@ -6,15 +6,20 @@
 ##  Projects  
 
 ### **[TLSE Racing](https://tlseracing.fr/about/)** - *In progress*  
-- **Autonomous driving program** for a Formula Student car. This program integrates advanced **perception, decision-making, and control algorithms**, enabling the vehicle to analyze its environment in real time, predict optimal racing lines, and adjust speed for maximum performance and safety.  
+- **Autonomous driving program** for a Formula Student car. This program integrates advanced **perception, decision-making, and control algorithms**, enabling the vehicle to analyze its environment in real time, predict optimal racing lines, and adjust speed for maximum performance and safety.
+#### **AI**
+- Tested algorithms : Faster R-CNN, EfficientNet,Yolo, MobileNet
+- Cone classification exemple [Video]()
+#### **SIM**
+
   
 
-#### **Hardware**  
-- **Vision**: [Intel RealSense](https://www.reichelt.com/fr/fr/shop/produit/webcam_camera_de_profondeur_intel_realsense_d435i-275192?PROVID=2842&utm_medium=idealo.fr&utm_source=psuma) depth camera.
-- **3D Scanning**: [Velodyne VLP-16](https://www.mapix.com/lidar-scanner-sensors/velodyne/velodyne-vlp-32c/) multi-layer LiDAR.
-- **Real Time Linux** on [Nvidia Jetson](https://www.siliconhighwaydirect.com/product-p/900-83668-0030-000.htm).
-- **Vehicule** [CAD](https://github.com/FS-AI/FS-AI_ADS-DV_CAD).
 #### **Join our sponsors**: [Here](https://tlseracing.fr/sponsors/).  
+
+---
+
+### **[Reinforcement Learning](https://github.com/OlivierCrt/Reinforcement_Learning)**  
+- Implementation of **Policy Iteration, Value Iteration, and K-means Epsilon-Greedy algorithms**.  
 
 ---
 
@@ -38,29 +43,20 @@
 
 ---
 
-### **[Reinforcement Learning](https://github.com/OlivierCrt/Reinforcement_Learning)**  
-- Implementation of **Policy Iteration, Value Iteration, and Epsilon-Greedy algorithms**.  
-
----
-
-### **[Les Pirates](https://github.com/OlivierCrt/les_pirates)**  
-- **Object-oriented programming**. Video game inspired by the French "Jeu de l'oie".  
-
----
-
 ##  Works  
 
-- ### **[Optimization](https://github.com/OlivierCrt/Optimisation_M1)** - Gradient descent, Newton, Least Squares, scipy lib.  
+- ### **[AI - NLP-Classification 1](https://github.com/OlivierCrt/PW_Machine-Learning)**  
+- ### **[AI - NLP-Classification 2](https://github.com/OlivierCrt/PW_speech_processing)**
+- ### **[AI - Flower-Classification](https://github.com/OlivierCrt/PW-python-M1)** - Data preprocessing, evaluate classifier, Regression-like.
+- ### **[AI - States-based Algorithms](https://github.com/OlivierCrt/PW_IA_M1)** - Graphs.
+- ### **[Optimization](https://github.com/OlivierCrt/Optimisation_M1)** - Gradient descent, Newton, Least Squares, scipy lib.
 - ### **[Computer Vision](https://github.com/OlivierCrt/Image_processing)** - *In progress*.  
 - ### **[Camera Calibration](https://github.com/OlivierCrt/Calibration)** - Mono/Stereo
 - ### **[Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)** - SLAM, Estimator synthesis.  
-- ### **[NLP-Classification 1](https://github.com/OlivierCrt/PW_Machine-Learning)**  
-- ### **[NLP-Classification 2](https://github.com/OlivierCrt/PW_speech_processing)**  
-- ### **[Flower-Classification](https://github.com/OlivierCrt/PW-python-M1)** - Data preprocessing, evaluate classifier, Regression-like.  
-- ### **[States-based Algorithms](https://github.com/OlivierCrt/PW_IA_M1)** - Graphs.  
-- ### **[Robot Control](https://github.com/OlivierCrt/PW_Robot_Control)** - Matlab Simulink.  
+- ### **[System Control](https://github.com/OlivierCrt/PW_Robot_Control)** - Matlab Simulink.  
 - ### **[OOP C++ Master the Basics](https://github.com/OlivierCrt/PW_Cpp)**  
-- ### **[OOP Java Master the Basics](https://github.com/OlivierCrt/PW-java-BS3)**  
+- ### **[OOP Java Master the Basics](https://github.com/OlivierCrt/PW-java-BS3)**
+- ### **[OOP Java Les Pirates](https://github.com/OlivierCrt/les_pirates)**  - Video game inspired by the French "Jeu de l'oie".  
 
 ---
 
