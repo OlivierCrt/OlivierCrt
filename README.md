@@ -1,4 +1,4 @@
-# Engineering Student  
+# Embedded systems Engineering Student  
 **Student at [UPSSITECH](https://www.upssitech.eu/)**, currently working on the **[TLSE-Racing](https://tlseracing.fr/about/)** international autonomous Formula 1 project in collaboration with **ISAE-SUPAERO**.  
 
 ---
@@ -46,15 +46,15 @@
 
 ##  Works  
 
-- ### **[AI - NLP-Classification 1](https://github.com/OlivierCrt/PW_Machine-Learning)**  
-- ### **[AI - NLP-Classification 2](https://github.com/OlivierCrt/PW_speech_processing)**
-- ### **[AI - Flower-Classification](https://github.com/OlivierCrt/PW-python-M1)** - Data preprocessing, evaluate classifier, Regression-like.
-- ### **[AI - States-based Algorithms](https://github.com/OlivierCrt/PW_IA_M1)** - Graphs.
 - ### **[Optimization](https://github.com/OlivierCrt/Optimisation_M1)** - Gradient descent, Newton, Least Squares, scipy lib.
 - ### **[Computer Vision](https://github.com/OlivierCrt/Image_processing)** - *In progress*.  
 - ### **[Camera Calibration](https://github.com/OlivierCrt/Calibration)** - Mono/Stereo
 - ### **[Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)** - SLAM, Estimator synthesis.  
-- ### **[System Control](https://github.com/OlivierCrt/PW_Robot_Control)** - Matlab Simulink.  
+- ### **[System Control](https://github.com/OlivierCrt/PW_Robot_Control)** - Matlab Simulink.
+- ### **[AI - NLP-Classification 1](https://github.com/OlivierCrt/PW_Machine-Learning)**  
+- ### **[AI - NLP-Classification 2](https://github.com/OlivierCrt/PW_speech_processing)**
+- ### **[AI - Flower-Classification](https://github.com/OlivierCrt/PW-python-M1)** - Data preprocessing, evaluate classifier, Regression-like.
+- ### **[AI - States-based Algorithms](https://github.com/OlivierCrt/PW_IA_M1)** - Graphs. 
 - ### **[OOP C++ Master the Basics](https://github.com/OlivierCrt/PW_Cpp)**  
 - ### **[OOP Java Master the Basics](https://github.com/OlivierCrt/PW-java-BS3)**
 - ### **[OOP Java Les Pirates](https://github.com/OlivierCrt/les_pirates)**  - Video game inspired by the French "Jeu de l'oie".  
