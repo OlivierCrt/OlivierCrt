@@ -39,8 +39,7 @@
 
 ---
 
-### **[Task Pipeline - Multitasking Programming](https://github.com/OlivierCrt/Task_Pipeline)** - *In progress*  
-- Transforming a **sequential program into a parallel task pipeline**.  
+
 
 ---
 
@@ -49,7 +48,8 @@
 - ### **[Optimization](https://github.com/OlivierCrt/Optimisation_M1)** - Gradient descent, Newton, Least Squares, scipy lib.
 - ### **[Computer Vision](https://github.com/OlivierCrt/Image_processing)** - *In progress*.  
 - ### **[Camera Calibration](https://github.com/OlivierCrt/Calibration)** - Mono/Stereo
-- ### **[Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)** - SLAM, Estimator synthesis.  
+- ### **[Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)** - SLAM, Estimator synthesis.
+- ### **[Task Pipeline - Multitasking Programming](https://github.com/OlivierCrt/Task_Pipeline)** -  Parallel task pipeline.  
 - ### **[System Control](https://github.com/OlivierCrt/PW_Robot_Control)** - Matlab Simulink.
 - ### **[AI - NLP-Classification 1](https://github.com/OlivierCrt/PW_Machine-Learning)**  
 - ### **[AI - NLP-Classification 2](https://github.com/OlivierCrt/PW_speech_processing)**
