@@ -1,7 +1,8 @@
 # Embedded systems Engineering Student  
 **Student at [UPSSITECH](https://www.upssitech.eu/)**, currently working on the **[TLSE-Racing](https://tlseracing.fr/about/)** international autonomous Formula 1 project in collaboration with **ISAE-SUPAERO**.  
 
-I also made my internship at AIST (Biggest AI lab in Japan) in the Robot learning field. Here my AIST github profile, some other works here are private.
+I also completed my internship at [AIST](https://www.aist.go.jp/) — the largest AI research institute in Japan — in the field of robot learning.  
+Here is my [AIST GitHub profile](https://github.com/your-aist-profile), and you can find some of my other works [here](https://github.com/your-other-profile) (some of them are private).
 ---
 
 ##  Projects  
