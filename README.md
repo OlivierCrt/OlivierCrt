@@ -2,7 +2,7 @@
 
 **Student at [UPSSITECH](https://www.upssitech.eu/)**, currently working on the **[TLSE-Racing](https://tlseracing.fr/about/)** international autonomous Formula 1 project in collaboration with **ISAE-SUPAERO**.
 
-I also completed my internship at [AIST](https://www.aist.go.jp/)  the largest AI research institute in Japan . I worked in the robot learning field.
+I also completed my internship at [AIST](https://www.aist.go.jp/)  ( major AI research institute in Japan ) . I worked in the robot learning field.
 Here is my [AIST GitHub profile](https://github.com/Olivier-AIST) where you can find my custom cpp controller(some other works are private).
 
 ---
@@ -49,8 +49,9 @@ Here is my [AIST GitHub profile](https://github.com/Olivier-AIST) where you can 
 ##  Works  
 
 - ### **[Optimization](https://github.com/OlivierCrt/Optimisation_M1)** - Gradient descent, Newton, Least Squares, scipy lib.
-- ### **[Computer Vision](https://github.com/OlivierCrt/Image_processing)** - *In progress*.  
-- ### **[Camera Calibration](https://github.com/OlivierCrt/Calibration)** - Mono/Stereo
+- ### **[Perception - Computer Vision](https://github.com/OlivierCrt/Image_processing)** - *In progress*.  
+- ### **[Perception - Camera Calibration](https://github.com/OlivierCrt/Calibration)** - Mono/Stereo
+- ### **[Perception - Mesh and depth cams](https://github.com/OlivierCrt/Perception_PW)** - 3d cloud
 - ### **[Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)** - SLAM, Estimator synthesis.
 - ### **[Task Pipeline - Multitasking Programming](https://github.com/OlivierCrt/Task_Pipeline)** -  Parallel task pipeline.  
 - ### **[System Control](https://github.com/OlivierCrt/PW_Robot_Control)** - Matlab Simulink.
