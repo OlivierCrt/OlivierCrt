@@ -49,7 +49,7 @@ Here is my [AIST GitHub profile](https://github.com/Olivier-AIST) where you can 
 ##  Works  
 
 - ### **[Optimization](https://github.com/OlivierCrt/Optimisation_M1)** - Gradient descent, Newton, Least Squares, scipy lib.
-- ### **[Perception - Computer Vision](https://github.com/OlivierCrt/Image_processing)** - *In progress*.  
+- ### **[Perception - Computer Vision](https://github.com/OlivierCrt/Image_processing)** - Pre-process, filters, comparative results 
 - ### **[Perception - Camera Calibration](https://github.com/OlivierCrt/Calibration)** - Mono/Stereo
 - ### **[Perception - Mesh and depth cams](https://github.com/OlivierCrt/Perception_PW)** - 3d cloud
 - ### **[Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)** - SLAM, Estimator synthesis.
