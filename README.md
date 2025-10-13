@@ -38,31 +38,29 @@ Here is my [AIST GitHub profile](https://github.com/Olivier-AIST) where you can 
 
 ---
 
-### **[MoBot](https://github.com/OlivierCrt/Mobot)**  
-- Mobile robot software that aims to **analyze a space and track objects** using **speech recognition**.  
-
----
 
 
 
 
 ##  Works  
 
-- ### **[Optimization](https://github.com/OlivierCrt/Optimisation_M1)** - Gradient descent, Newton, Least Squares, scipy lib.
 - ### **[Perception - Computer Vision](https://github.com/OlivierCrt/Image_processing)** - Pre-process, filters, comparative results 
 - ### **[Perception - Camera Calibration](https://github.com/OlivierCrt/Calibration)** - Mono/Stereo
 - ### **[Perception - Mesh and depth cams](https://github.com/OlivierCrt/Perception_PW)** - 3d cloud
 - ### **[Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)** - SLAM, Estimator synthesis.
-- ### **[Task Pipeline - Multitasking Programming](https://github.com/OlivierCrt/Task_Pipeline)** -  Parallel task pipeline.  
-- ### **[System Control](https://github.com/OlivierCrt/PW_Robot_Control)** - Matlab Simulink.
 - ### **[AI - NLP-Classification 1](https://github.com/OlivierCrt/PW_Machine-Learning)**  
 - ### **[AI - NLP-Classification 2](https://github.com/OlivierCrt/PW_speech_processing)**
 - ### **[AI - NLP](https://github.com/OlivierCrt/TP_Dialogue)**
 - ### **[AI - Flower-Classification](https://github.com/OlivierCrt/PW-python-M1)** - Data preprocessing, evaluate classifier, Regression-like.
 - ### **[AI - States-based Algorithms](https://github.com/OlivierCrt/PW_IA_M1)** - Graphs. 
-- ### **[OOP C++ Master the Basics](https://github.com/OlivierCrt/PW_Cpp)**  
-- ### **[OOP Java Master the Basics](https://github.com/OlivierCrt/PW-java-BS3)**
-- ### **[OOP Java Les Pirates](https://github.com/OlivierCrt/les_pirates)**  - Video game inspired by the French "Jeu de l'oie".  
+- ### **[OOP - C++ Master the Basics](https://github.com/OlivierCrt/PW_Cpp)**  
+- ### **[OOP - Java Master the Basics](https://github.com/OlivierCrt/PW-java-BS3)**
+- ### **[OOP - Java Les Pirates](https://github.com/OlivierCrt/les_pirates)**  - Video game inspired by the French "Jeu de l'oie".
+- ### **[Task Pipeline - Multitasking Programming](https://github.com/OlivierCrt/Task_Pipeline)** -  Parallel task pipeline.  
+- ### **[System Control](https://github.com/OlivierCrt/PW_Robot_Control)** - Matlab Simulink.
+- ### **[Optimization](https://github.com/OlivierCrt/Optimisation_M1)** - Gradient descent, Newton, Least Squares, scipy lib.
+- ### **[Mobile robot](https://github.com/OlivierCrt/Mobot)** - Mobile robot Software
+
 
 ---
 
