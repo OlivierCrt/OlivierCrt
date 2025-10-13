@@ -3,7 +3,7 @@
 **Student at [UPSSITECH](https://www.upssitech.eu/)**, currently working on the **[TLSE-Racing](https://tlseracing.fr/about/)** international autonomous Formula 1 project in collaboration with **ISAE-SUPAERO**.
 
 I also completed my internship at [AIST](https://www.aist.go.jp/)  ( major AI research institute in Japan ) . I worked in the robot learning field.
-Here is my [AIST GitHub profile](https://github.com/Olivier-AIST) where you can find my custom cpp controller(some other works are private).
+Here is my [AIST GitHub profile](https://github.com/Olivier-AIST) where you can find my custom cpp controller(other works are private).
 
 ---
 
