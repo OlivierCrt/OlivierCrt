@@ -47,7 +47,6 @@ Here is my [AIST GitHub profile](https://github.com/Olivier-AIST) where you can 
 - ### **[Perception - Computer Vision](https://github.com/OlivierCrt/Image_processing)** - Pre-process, filters, comparative results 
 - ### **[Perception - Camera Calibration](https://github.com/OlivierCrt/Calibration)** - Mono/Stereo
 - ### **[Perception - Mesh and depth cams](https://github.com/OlivierCrt/Perception_PW)** - 3d cloud
-- ### **[Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)** - SLAM, Estimator synthesis.
 - ### **[AI - NLP-Classification 1](https://github.com/OlivierCrt/PW_Machine-Learning)**  
 - ### **[AI - NLP-Classification 2](https://github.com/OlivierCrt/PW_speech_processing)**
 - ### **[AI - NLP](https://github.com/OlivierCrt/TP_Dialogue)**
@@ -60,6 +59,8 @@ Here is my [AIST GitHub profile](https://github.com/Olivier-AIST) where you can 
 - ### **[System Control](https://github.com/OlivierCrt/PW_Robot_Control)** - Matlab Simulink.
 - ### **[Optimization](https://github.com/OlivierCrt/Optimisation_M1)** - Gradient descent, Newton, Least Squares, scipy lib.
 - ### **[Mobile robot](https://github.com/OlivierCrt/Mobot)** - Mobile robot Software
+- ### **[Stochastic Estimation](https://github.com/OlivierCrt/Estimation_PW)** - SLAM, Estimator synthesis.
+
 
 
 ---
