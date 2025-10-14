@@ -8,12 +8,8 @@
 
 I completed my internship at **[AIST](https://www.aist.go.jp/index_en.html)**, Japan’s lead AI research institute where I worked in the field of robot learning.
 
-During my internship, I developed a sim-to-real workflow involving a robot and a camera for 6D object pose estimation used in grasping tasks.
-I designed a custom C++ controller that allows flexible editing of trajectory parameters, and built a complete simulation environment in NVIDIA Isaac Sim.
+### **[Interniship_AIST](https://github.com/OlivierCrt/Internship_ressources)**  
 
-Using this setup, I trained RL agents in simulation and successfully deployed them to the real robot, achieving a 100% success rate in grasp-and-lift tasks.
-
-You can find part of my work on my **[AIST GitHub profile](https://github.com/Olivier-AIST)** including my custom controller and  simulator (other projects remain private).
 
 Supervisor: Erich Floris, Team leader at AIST
 
