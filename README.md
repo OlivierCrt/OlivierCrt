@@ -2,13 +2,15 @@
 
 **Student at [UPSSITECH](https://www.upssitech.eu/)**, currently working on the **[TLSE-Racing](https://tlseracing.fr/about/)** international autonomous Formula 1 project in collaboration with **ISAE-SUPAERO**.
 
-
+---
 
 ##  Internship 
 
+
+### **[Internship_AIST](https://github.com/OlivierCrt/Internship_ressources)**  
+
 I completed my internship at **[AIST](https://www.aist.go.jp/index_en.html)**, Japan’s lead AI research institute where I worked in the field of robot learning.
 
-### **[Interniship_AIST](https://github.com/OlivierCrt/Internship_ressources)**  
 
 
 Supervisor: Erich Floris, Team leader at AIST
