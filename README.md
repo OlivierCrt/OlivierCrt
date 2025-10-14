@@ -7,7 +7,7 @@
 ##  Internship 
 
 
-### **[Internship_AIST](https://github.com/OlivierCrt/Internship_ressources)**  
+### **[Internship_AIST](https://github.com/OlivierCrt/Internship_ressources)**  - RL-based Manipulation with Sim-to-Real Pipeline
 
 I completed my internship at **[AIST](https://www.aist.go.jp/index_en.html)**, Japan’s lead AI research institute where I worked in the field of robot learning.
 
