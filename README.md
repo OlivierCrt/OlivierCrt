@@ -29,7 +29,6 @@ Supervisor: Erich Floris, Team leader at AIST
 - [Link](https://fs-driverless.github.io/Formula-Student-Driverless-Simulator/v2.2.0/)
 
   
-
 #### **Join our sponsors**: [Here](https://tlseracing.fr/sponsors/).  
 
 ---
